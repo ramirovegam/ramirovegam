@@ -1,5 +1,3 @@
-# Angel Jaime
-
 <h2 align="center">About me</h2>
 
 👋 Hey there! I'm Ramiro Vega
@@ -17,7 +15,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.linkedin.com/in/ramiro-vega-meza-15443128b/" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
@@ -56,10 +54,6 @@
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
@@ -69,9 +63,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
----
-
-Credit: [AnhellO](https://github.com/AnhellO)
-
-Last Edited on: 23/09/2020
+Last Edited on: 17/04/2025
