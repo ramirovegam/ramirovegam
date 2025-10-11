@@ -1,61 +1,39 @@
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre mí</h2>
 
-👋 Hey there! I'm Ramiro Vega
-🐍 Escribo en Python más que en WhatsApp.  
-📊 Transformo datos en historias que importan.  
-🐾 Ahora mismo: creando soluciones inteligentes para refugios de animales.  
-🎯 Mi objetivo: que el código que escribo tenga impacto allá afuera.  
-🧠 Siempre aprendiendo, siempre compartiendo.
+👋 ¡Hola! Soy **Ramiro Vega Meza**, estudiante de ingeniería con experiencia en desarrollo de software, procesamiento de imágenes, análisis de datos y automatización.
 
-<h2 align="center">You can reach me at :alien:</h2>
+💻 Trabajo con tecnologías como **MATLAB**, **Python**,**Docker**, **JAVA**, **DJANGO** y herramientas de visualización y análisis.  
+🎯 Me apasiona crear soluciones prácticas que tengan impacto en el aprendizaje y la innovación.  
+📚 Siempre aprendiendo, siempre compartiendo.
 
-  <a href="https://www.linkedin.com/in/ramiro-vega-meza-15443128b/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
+---
 
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Ramiro Vega Stack Overflow Profile" height="30" width="30">
-  </a>
+<h2 align="center">📬 Puedes contactarme en:</h2>
 
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Ramiro Vega Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Ramiro Vega StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Ramiro Vega GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  https://www.linkedin.com/in/ramiro-vega-meza-15443128b/
+    https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg
   </a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+---
 
-<h4 align="center">Top langs :tongue:</h4>
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<h4 align="center">Lenguajes más usados</h4>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center">
+  https://github-readme-stats.vercel.app/api/top-langs/?username=ramirovegameza&langs_count=10&layout=compact&theme=default
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<h4 align="center">Actividad del perfil</h4>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-Last Edited on: 17/04/2025
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=ramirovegameza&show_icons=true&theme=default
+</p>
+
+<h4 align="center">Racha de contribuciones</h4>
+
+<p align="center">
+  https://streak-stats.demolab.com?user=ramirovegameza&theme=default
+</p>
